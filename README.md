@@ -1,1 +1,1 @@
-# gitskills
+# This is an repository of studying.
